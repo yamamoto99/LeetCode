@@ -1,1 +1,2 @@
 # LeetCode
+このリポジトリは過去に解いたLeetCodeの問題保管庫です
